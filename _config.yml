@@ -377,7 +377,7 @@ reading_progress:
   # Available values: top | bottom
   position: top
   color: "#86d9fd"
-  height: 5px
+  height: 3px
 
 # Bookmark Support
 bookmark:
